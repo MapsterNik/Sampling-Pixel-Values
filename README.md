@@ -15,3 +15,5 @@ This Python script demonstrates how to use Google Earth Engine (GEE) and geemap 
 *Sample pixel values from both DEM and Sentinel-2 imagery.
 
 *Visualize the results interactively using geemap.
+
+![image](https://github.com/user-attachments/assets/598ffafc-8e4c-4653-8efe-24067c0ddc8a)
