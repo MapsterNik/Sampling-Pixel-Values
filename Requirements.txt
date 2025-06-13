@@ -1,0 +1,6 @@
+📦 Dependencies
+Make sure you have the following installed:
+
+Google Earth Engine cloud project (project ID for Authentication and Initialization)
+Earth Engine (ee) API python package 
+geemap libraries 
