@@ -2,6 +2,7 @@
 
 **🌍 Earth Engine + Geemap Sampling over Tamil Nadu
 **
+
 This Python script demonstrates how to use Google Earth Engine (GEE) and geemap in Python to:
 
 *Authenticate and initialize a GEE session.
